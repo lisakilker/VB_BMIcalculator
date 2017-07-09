@@ -1,0 +1,15 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.frmBMICalculator.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.BMISplashScreen.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\lisak\Desktop\New folder\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\lisak\Desktop\New folder\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\lisak\Desktop\New folder\BMICalculator\BMICalculator\obj\Debug\BMICalculator.xml
+C:\Users\lisak\Desktop\New folder\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
